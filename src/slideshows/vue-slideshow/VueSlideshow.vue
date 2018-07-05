@@ -19,13 +19,18 @@
     slide(enter='fadeIn' leave='fadeOut')
       h3 What
       p.
-       JavaScript framework with focus on user interfaces
+       JavaScript framework
+      //with focus on user interfaces
       p.
-       Progressive //- Can be plugged in parts of the application
+       Progressive
+      //- Can be plugged in parts of the application
       p.
-       Reusable //- Splits up a web page in reusable components
+       Reusable
+      // //- Splits up a web page in reusable components
       p.
        Reactive
+      p.
+       Supports single page applications
 
     slide(enter='fadeIn' leave='fadeOut')
       h3 Why
@@ -39,6 +44,7 @@
         Many extensions
       p.
         Good documentation
+
 
     slide(enter='fadeIn' leave='fadeOut')
       h3 Vue vs React vs Angular
@@ -63,9 +69,10 @@
       p.
        <a href="https://jsfiddle.net/ckt6bs13/1/">Bindings</a>
       p.
-       <a href="https://jsfiddle.net/argq6n43/">Components</a>
-      p.
        <a href="https://jsfiddle.net/q4nva61z/">Forms</a>
+      p.
+       <a href="https://jsfiddle.net/argq6n43/7/">Components</a>
+
 
     slide(enter='fadeIn' leave='fadeOut')
       h3 Extensions
@@ -92,10 +99,15 @@
         <a href="https://madewithvuejs.com/">Many more</a>
 
     slide(enter='fadeIn' leave='fadeOut')
-     <br><br><br>
-      .center.frontpage
-        img(src='./assets/75c1009cb129240e25f867cc323b3d6ec058ccbb168e1121d7923dd34cad00f5.jpg')
+      h3 Resources
+      p.
+        <a href="https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/">Vue online course</a>
+      p.
+        <a href="https://docs.google.com/document/d/14tYfJXQH9-ZwTqoJq2gTbGuUzHwzY-EP1mrVI8nGK6A/edit?usp=sharing">learning journal</a>
 
+
+    slide(enter='fadeIn' leave='fadeOut')
+      h3 Thank you!
 </template>
 
 <script>
